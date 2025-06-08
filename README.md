@@ -10,11 +10,11 @@
 
 ## Cấu trúc thư mục
 ```
-├── Data_Preprocessing_and_Visualization/                  # Giảm chiều, trực quan hóa dữ liệu
-├── K_Means/                     # Code phân cụm K-Means
-├── Naive_Bayes_And_Softmax_Regression/                 # Code huấn luyện mô hình Multinomial Naive Bayes và mô hình hồi quy Softmax
-├── MULTI_LAYER_PERCEPTRON/     # Code huấn luyện mạng neuron nhân tạo (ANN)
-├── Random_forest_classifier/   # Code mô hình rừng ngẫu nhiên
+├── src/Data_Preprocessing_and_Visualization/                  # Giảm chiều, trực quan hóa dữ liệu
+├── src/K_Means/                     # Code phân cụm K-Means
+├── src/Naive_Bayes_And_Softmax_Regression/                 # Code huấn luyện mô hình Multinomial Naive Bayes và mô hình hồi quy Softmax
+├── src/MULTI_LAYER_PERCEPTRON/     # Code huấn luyện mạng neuron nhân tạo (ANN)
+├── src/Random_forest_classifier/   # Code mô hình rừng ngẫu nhiên
 ```
 
 ## Dữ liệu
